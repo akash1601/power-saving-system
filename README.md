@@ -1,10 +1,10 @@
-*** powersaving_system ***
+***powersaving_system***
 
-** Abstract **
+**Abstract**
 
 One of the major problems in the most populated and developing countries like India, is Energy or Power crisis. Hence, there is a pressing need to conserve power. There are many simple ways to save electricity, like using the electric and electronic gadgets whenever and wherever needed and switching them off, while not in use. But in places such as class rooms and labs, there will be a fan or a light keeps running even when there are no people. This contributes to a considerable amount of electricity wastage. There are many ways to prevent this wastage. Here we propose a new method of controlling the power supply of class rooms using Image Processing. This is dual usage system in which a camera is used for detecting people as well as surveillance purpose. This is very simple, efficient and cheaper technique to save energy. Another big advantage is, we can extend this up to applications like home automation etc.
 
-** Introduction **
+**Introduction**
 
 It is a usual sight for us to see the lights/fans running in an empty classroom. The amount of electricity wastage is considerably high in such cases. More electricity wastage implies to a heavy electricity bill, something that disappoints people. As a solution to this common problem, we came up with an idea to develop a system with the concept of Image Processing and Raspberry pi that controls the power usage of the room based upon the presence of humans in the room.
 
